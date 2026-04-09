@@ -4,7 +4,7 @@
 
 (📘 This is a technical reference guide, not an executable project.)
 
-> Professional guide to Telegram Bot API 7.0+: Implement colored inline buttons with animated premium custom emoji icons using the modern MessageEntity system.
+> Professional guide to Telegram Bot API 9.0+: Implement colored inline buttons with animated premium custom emoji icons using the modern MessageEntity system.
 
 [![Telegram Bot API](https://img.shields.io/badge/Telegram%20API-v7.0+-26A5E4?logo=telegram)](https://core.telegram.org/bots/api)
 [![Documentation](https://img.shields.io/badge/Docs-Official-blue)](https://core.telegram.org/bots/api#inlinekeyboardbutton)
@@ -15,7 +15,7 @@
 ## 📑 Table of Contents
 
 - [Overview](#overview)
-- [What's New in Telegram Bot API 7.0](#whats-new-in-telegram-bot-api-70)
+- [What's New in Telegram Bot API 9.0](#whats-new-in-telegram-bot-api-70)
 - [Colored Button Styles](#colored-button-styles)
 - [Premium Emoji Icons](#premium-emoji-icons)
 - [Entity System Deep Dive](#entity-system-deep-dive)
@@ -28,7 +28,7 @@
 
 ## 📖 Overview
 
-Telegram Bot API 7.0 introduced a revolutionary update for bot developers: **Colored Inline Buttons** with **Premium Custom Emoji Icons**. This guide provides a comprehensive walkthrough of these new features using the modern **MessageEntity** system.
+Telegram Bot API 9.0 introduced a revolutionary update for bot developers: **Colored Inline Buttons** with **Premium Custom Emoji Icons**. This guide provides a comprehensive walkthrough of these new features using the modern **MessageEntity** system.
 
 ### Key Features Covered
 - 🎨 **Glass Button Styles**: `primary` (blue), `success` (green), `danger` (red)
@@ -38,7 +38,7 @@ Telegram Bot API 7.0 introduced a revolutionary update for bot developers: **Col
 
 ---
 
-## 🆕 What's New in Telegram Bot API 7.0
+## 🆕 What's New in Telegram Bot API 9.0
 
 ### The InlineKeyboardButton Evolution
 
