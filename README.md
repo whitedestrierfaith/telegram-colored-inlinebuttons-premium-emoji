@@ -2,6 +2,8 @@
 ```markdown
 # 🚀 Telegram Colored Inline Buttons with Premium Emoji
 
+(📘 This is a technical reference guide, not an executable project.)
+
 > Professional guide to Telegram Bot API 7.0+: Implement colored inline buttons with animated premium custom emoji icons using the modern MessageEntity system.
 
 [![Telegram Bot API](https://img.shields.io/badge/Telegram%20API-v7.0+-26A5E4?logo=telegram)](https://core.telegram.org/bots/api)
